@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906787792763",
+    "project_id": "ninja-brew-crew-e760e",
+    "storage_bucket": "ninja-brew-crew-e760e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906787792763:android:92d38acff71057123b3fde",
+        "android_client_info": {
+          "package_name": "com.example.ninja_brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906787792763-8codrvgg6ebgs2hlu8i7p31t5k3p4sqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF10zCRVOpMV_z3sSEOWT40d8kK82HcGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906787792763-8codrvgg6ebgs2hlu8i7p31t5k3p4sqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
