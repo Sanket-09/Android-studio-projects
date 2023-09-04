@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">906787792763-8codrvgg6ebgs2hlu8i7p31t5k3p4sqo.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">906787792763</string>
+    <string name="google_api_key" translatable="false">AIzaSyDF10zCRVOpMV_z3sSEOWT40d8kK82HcGo</string>
+    <string name="google_app_id" translatable="false">1:906787792763:android:92d38acff71057123b3fde</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDF10zCRVOpMV_z3sSEOWT40d8kK82HcGo</string>
+    <string name="google_storage_bucket" translatable="false">ninja-brew-crew-e760e.appspot.com</string>
+    <string name="project_id" translatable="false">ninja-brew-crew-e760e</string>
+</resources>

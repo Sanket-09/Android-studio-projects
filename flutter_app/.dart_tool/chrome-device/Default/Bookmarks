@@ -1,0 +1,64 @@
+{
+   "checksum": "01558a5ce73febaefc6764230c7eed5f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13262289782101231",
+            "guid": "4fabae56-688c-4920-8971-72b4145c3899",
+            "id": "5",
+            "name": "Download Firefox Browser — Fast, Private & Free — from Mozilla",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.mozilla.org/en-US/firefox/download/thanks/"
+         }, {
+            "date_added": "13262313176548175",
+            "guid": "d5435b93-5810-4494-acbd-538d7850fd3c",
+            "id": "6",
+            "name": "typing",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.typingclub.com/sportal/program-3/168.play"
+         }, {
+            "date_added": "13262320194972768",
+            "guid": "8ea0b941-118c-4151-b3c9-d9315c73d41b",
+            "id": "7",
+            "name": "Linear Algebra Toolkit",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi"
+         } ],
+         "date_added": "13262493203391424",
+         "date_modified": "13262320194972768",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13262493203391428",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13262493203391438",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Ci4KDgiIgQISCNn5e7l4AQAAEgAgASoYSEpidFNCVlV4dGpXN0MrdlVGZUFKQT09EokBCAMShAEKHHk1V0UyN3VJNnZYL0RlSVNISnpuak1xdVdXcz0SJGYwY2ZhZTllLWRkNjAtNTRlYi1iZGRkLWRiYTEyZTgxNDFhMBgAIAAoADD/xL3rii84hcG964ovQIXBveuKL0ocNzlsK0xSRVVwaWFFdkREK0c0M2NwWFN0d0JjPVoAZQAAAAASpwEIBRKiAQocdG1LSlJkYzRJaXJKeVNYUUJiaGFwOUhaZXhNPRIkNGZhYmFlNTYtNjg4Yy00OTIwLTg5NzEtNzJiNDE0NWMzODk5GAAgACgAMNnZveuKLziIzL3rii9AiMy964ovShxqaitDUDBKL3pjaHVIalhtc293NkR4TUkwRmc9Wh4iHG14WW1mdzJOMDAzRmZka3ZraXNFL2NWSDEvYz1lAAAAABKJAQgBEoQBChwvRUtMYVVVeU1kYktFazFCYTJVaW55RG5mN0k9EiQzMTVlZGI2Mi00NzMwLTU4NzQtYTU5OC0zNGI5YzZlZWMyYmQYACAAKAAw+sS964ovOIXBveuKL0CFwb3rii9KHFUrR0dJdFpFRHBac0lTbE9VYUlUdUlMZE1uST1aAGUAAAAAEokBCAIShAEKHHpEVkdycnRaTGRNKzRCVHliZytIQ09yV2d5bz0SJDYxYTYwNmIyLWNjYzQtNTkzYi1iMmIwLTZmNjBlN2UzY2VlZhgAIAAoADD7xL3rii84hcG964ovQIXBveuKL0ocNXVzeS9jcGZwaTFFdG9CSERnWElzMHFiNHJBPVoAZQAAAAASqAEIBxKjAQocYzZQZWh3RzRZSVdOVHVueDJPbkVYZUVSdU0wPRIkOGVhMGI5NDEtMTE4Yy00MTUxLWIzYzktZDkzMTVjNzNkNDFiGAAgAigCMNnz78uLLzid26/5ii9Ar4Pwy4svShxmVjhzYm5pL3JwVERhVVcza2RuQWNKNkx6V289Wh8iHds4dkpUSjBWN3BUaG01a0MrRkpYOHhjaVp3UUE9ZfjIWaQSqAEIBhKjAQocdUxCQWlmNTEzMTlQSy9tcTRyZm4yTjlha1EwPRIkZDU0MzViOTMtNTgxMC00NDk0LWFjYmQtNTM4ZDc4NTBmZDNjGAAgAigCMNjz78uLLzjlq4P2ii9AroPwy4svShwraVlhSmtLb3BhOWpXQW1lV1czQklhL0x2NDg9Wh8iHbY0Y1lpMzRiZGM4aWZ2T3d1ZlBVNjFlU2hPNVk9ZQ8v9boYACDblvDLiy8=",
+   "version": 1
+}
